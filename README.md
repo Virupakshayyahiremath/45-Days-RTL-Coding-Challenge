@@ -13,4 +13,4 @@ The challenge progresses from **basic combinational logic to advanced RTL concep
 - Verilog / SystemVerilog  
 - Xilinx Vivado  
 
-Author:Virupakshayya Hiremath
+**Author:** Virupakshayya Hiremath
