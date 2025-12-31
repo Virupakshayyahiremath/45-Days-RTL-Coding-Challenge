@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+input a=0 output y=1
+input a=1 output y=0
+$finish called at time : 100 ns : File "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day1/not_gate_tb.v" Line 45

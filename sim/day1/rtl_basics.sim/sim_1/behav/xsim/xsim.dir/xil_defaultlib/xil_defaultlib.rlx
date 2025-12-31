@@ -1,0 +1,13 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/rtl/day1/and_gate.v,1767199086,verilog,,C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day1/and_gate_tb.v,,and_gate,,,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/rtl/day1/not_gate.v,1767202025,verilog,,C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day1/not_gate_tb.v,,not_gate,,,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/rtl/day1/or_gate.v,1767201064,verilog,,C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day1/or_gate_tb.v,,or_gate,,,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/rtl/day1/xor_gate.v,1767201741,verilog,,C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day1/xor_gate_tb.v,,xor_gate,,,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/sim/day1/rtl_basics.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day1/and_gate_tb.v,1767199994,verilog,,,,and_gate_tb,,,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day1/not_gate_tb.v,1767202213,verilog,,,,not_gate_tb,,,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day1/or_gate_tb.v,1767201154,verilog,,,,or_gate_tb,,,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day1/xor_gate_tb.v,1767201847,verilog,,,,xor_gate_tb,,,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
