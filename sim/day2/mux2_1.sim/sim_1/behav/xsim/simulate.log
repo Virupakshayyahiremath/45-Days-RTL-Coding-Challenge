@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+input a=0,b=0,sel=0,output y=0
+input a=0,b=1,sel=0,output y=1
+input a=1,b=0,sel=0,output y=0
+input a=1,b=1,sel=0,output y=1
+input a=0,b=0,sel=1,output y=0
+input a=0,b=1,sel=1,output y=0
+input a=1,b=0,sel=1,output y=1
+input a=1,b=1,sel=1,output y=1
+$finish called at time : 80 ns : File "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day2/mux2_1_tb.v" Line 36
