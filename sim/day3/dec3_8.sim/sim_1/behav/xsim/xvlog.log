@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/rtl/day3/dec2_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dec2_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day3/dec2_4_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dec2_4_tb

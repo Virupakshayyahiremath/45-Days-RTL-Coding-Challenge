@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+input a=00, en=0, output y=0000
+input a=00, en=1, output y=0001
+input a=01, en=1, output y=0010
+input a=10, en=1, output y=0100
+input a=11, en=1, output y=1000
+input a=11, en=0, output y=0000
+$finish called at time : 60 ns : File "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day3/dec2_4_tb.v" Line 42
