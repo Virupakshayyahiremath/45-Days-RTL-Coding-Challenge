@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/rtl/day4/prien4_2.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module prien4_2
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day4/prien4_2_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module prien4_2_tb
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/sim/day4/prien4_2.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
