@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/rtl/day7/dec2_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dec2_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/rtl/day7/mux4_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux4_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/rtl/day7/trimux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module trimux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day7/mux4_1_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux4_1_tb

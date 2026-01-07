@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+i=0000 sel=00 y=0
+i=0101 sel=10 y=0
+i=1111 sel=11 y=1
+$finish called at time : 30 ns : File "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day7/mux4_1_tb.v" Line 56

@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/rtl/day7/dec2_4.v,1767786910,verilog,,C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/rtl/day7/mux4_1.v,,dec2_4,,,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/rtl/day7/mux4_1.v,1767787169,verilog,,C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/rtl/day7/trimux.v,,mux4_1,,,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/rtl/day7/trimux.v,1767785527,verilog,,C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day7/mux4_1_tb.v,,trimux,,,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/sim/day7/mux4_1_using_dec_trimux.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/tb/day7/mux4_1_tb.v,1767788193,verilog,,,,mux4_1_tb,,,D:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
