@@ -1,0 +1,26 @@
+Time resolution is 1 ps
+time=0 values of clk=0, rst=1, d=0, q=x
+time=10000 values of clk=1, rst=1, d=0, q=0
+time=20000 values of clk=0, rst=1, d=0, q=0
+time=30000 values of clk=1, rst=1, d=0, q=0
+time=40000 values of clk=0, rst=0, d=0, q=0
+time=50000 values of clk=1, rst=0, d=0, q=0
+time=60000 values of clk=0, rst=0, d=0, q=0
+time=70000 values of clk=1, rst=0, d=0, q=0
+time=80000 values of clk=0, rst=0, d=1, q=0
+time=90000 values of clk=1, rst=0, d=1, q=1
+time=100000 values of clk=0, rst=0, d=0, q=1
+time=110000 values of clk=1, rst=0, d=0, q=0
+time=120000 values of clk=0, rst=0, d=1, q=0
+time=130000 values of clk=1, rst=0, d=1, q=1
+time=140000 values of clk=0, rst=0, d=1, q=1
+time=150000 values of clk=1, rst=0, d=1, q=1
+time=160000 values of clk=0, rst=1, d=1, q=1
+time=170000 values of clk=1, rst=1, d=1, q=0
+time=180000 values of clk=0, rst=0, d=1, q=0
+time=190000 values of clk=1, rst=0, d=1, q=1
+time=200000 values of clk=0, rst=0, d=0, q=1
+time=210000 values of clk=1, rst=0, d=0, q=0
+time=220000 values of clk=0, rst=0, d=1, q=0
+time=230000 values of clk=1, rst=0, d=1, q=1
+$finish called at time : 240 ns : File "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/day8/tb/dff_tb.v" Line 65
