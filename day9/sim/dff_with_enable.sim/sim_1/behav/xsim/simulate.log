@@ -1,0 +1,18 @@
+Time resolution is 1 ps
+time=0 rst=1, en=0, d=0, q=x
+time=10000 rst=1, en=0, d=0, q=0
+time=40000 rst=0, en=0, d=0, q=0
+time=60000 rst=0, en=1, d=0, q=0
+time=80000 rst=0, en=1, d=1, q=0
+time=90000 rst=0, en=1, d=1, q=1
+time=100000 rst=0, en=0, d=0, q=1
+time=120000 rst=0, en=0, d=1, q=1
+time=140000 rst=0, en=1, d=0, q=1
+time=150000 rst=0, en=1, d=0, q=0
+time=160000 rst=1, en=1, d=0, q=0
+time=180000 rst=0, en=1, d=0, q=0
+time=200000 rst=0, en=1, d=1, q=0
+time=210000 rst=0, en=1, d=1, q=1
+time=220000 rst=0, en=1, d=0, q=1
+time=230000 rst=0, en=1, d=0, q=0
+$finish called at time : 240 ns : File "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/day9/tb/dff_en_tb.v" Line 69
