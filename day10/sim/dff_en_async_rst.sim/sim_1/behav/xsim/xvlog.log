@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/day10/rtl/dff_en_async_rst.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dff_en_async_rst
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/day10/tb/dff_en_async_rst_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dff_en_async_rst_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/day10/sim/dff_en_async_rst.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

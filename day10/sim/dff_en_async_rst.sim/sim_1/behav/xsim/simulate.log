@@ -1,0 +1,15 @@
+Time resolution is 1 ps
+rst=1 en=0 d=0 q=0
+rst=0 en=0 d=0 q=0
+rst=0 en=1 d=0 q=0
+rst=0 en=1 d=1 q=0
+rst=0 en=1 d=1 q=1
+rst=0 en=0 d=0 q=1
+rst=0 en=0 d=1 q=1
+rst=1 en=0 d=1 q=0
+rst=0 en=0 d=1 q=0
+rst=0 en=1 d=1 q=0
+rst=0 en=1 d=1 q=1
+rst=0 en=1 d=0 q=1
+rst=0 en=1 d=0 q=0
+$finish called at time : 140 ns : File "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/day10/tb/dff_en_async_rst_tb.v" Line 65
