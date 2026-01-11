@@ -1,0 +1,26 @@
+Time resolution is 1 ps
+values of clk=0, rst=1, t=0, q=x, qb=x
+values of clk=1, rst=1, t=0, q=0, qb=1
+values of clk=0, rst=1, t=0, q=0, qb=1
+values of clk=1, rst=1, t=0, q=0, qb=1
+values of clk=0, rst=0, t=0, q=0, qb=1
+values of clk=1, rst=0, t=0, q=0, qb=1
+values of clk=0, rst=0, t=0, q=0, qb=1
+values of clk=1, rst=0, t=0, q=0, qb=1
+values of clk=0, rst=0, t=1, q=0, qb=1
+values of clk=1, rst=0, t=1, q=1, qb=0
+values of clk=0, rst=0, t=0, q=1, qb=0
+values of clk=1, rst=0, t=0, q=1, qb=0
+values of clk=0, rst=0, t=1, q=1, qb=0
+values of clk=1, rst=0, t=1, q=0, qb=1
+values of clk=0, rst=0, t=0, q=0, qb=1
+values of clk=1, rst=0, t=0, q=0, qb=1
+values of clk=0, rst=1, t=0, q=0, qb=1
+values of clk=1, rst=1, t=0, q=0, qb=1
+values of clk=0, rst=0, t=0, q=0, qb=1
+values of clk=1, rst=0, t=0, q=0, qb=1
+values of clk=0, rst=0, t=1, q=0, qb=1
+values of clk=1, rst=0, t=1, q=1, qb=0
+values of clk=0, rst=0, t=0, q=1, qb=0
+values of clk=1, rst=0, t=0, q=1, qb=0
+$finish called at time : 240 ns : File "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/day11/tb/tff_using_dff_tb.v" Line 66
