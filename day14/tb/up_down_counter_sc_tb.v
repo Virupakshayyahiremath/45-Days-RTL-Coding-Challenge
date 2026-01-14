@@ -25,23 +25,10 @@ module up_down_counter_sc_tb();
     reg load, mode;
     reg [3:0] data_in;
     wire [3:0] count;
-
     reg [3:0] expected_count;
-
-    up_down_counter DUT (
-        .clk(clk),
-        .rst(rst),
-        .load(load),
-        .mode(mode),
-        .data_in(data_in),
-        .count(count)
-    );
-
-    // Clock generation
+    up_down_counter DUT (clk,rst,load,mode,data_in,count);
     initial clk = 0;
     always #10 clk = ~clk;
-
-    // Initialize signals
     task initialize;
         begin
             rst = 1;
@@ -52,7 +39,6 @@ module up_down_counter_sc_tb();
         end
     endtask
 
-    // Reset task
     task reset;
         begin
             @(negedge clk);
@@ -63,7 +49,6 @@ module up_down_counter_sc_tb();
         end
     endtask
 
-    // Stimulus task
     task stimulus(input load_i, mode_i, input [3:0] data_in_i);
         begin
             @(negedge clk);
@@ -73,7 +58,6 @@ module up_down_counter_sc_tb();
         end
     endtask
 
-    // Expected value calculation
     always @(posedge clk) begin
         if (rst)
             expected_count <= 4'd0;
@@ -85,26 +69,21 @@ module up_down_counter_sc_tb();
             expected_count <= expected_count - 1'b1;
     end
 
-    // Self-checking block
     always @(posedge clk) begin
-        #1; // small delay to allow DUT update
+        #1;
         if (count !== expected_count)
             $display("FAIL: Expected=%b, Got=%b at time=%0t",
                     expected_count, count, $time);
         else
             $display("PASS: count=%b at time=%0t", count, $time);
     end
-
-    // Test sequence
     initial begin
         initialize;
         reset;
-
-        stimulus(1,1,4'd12); // load 12
-        stimulus(0,1,4'd12); // up
-        stimulus(1,0,4'd12); // load 12
-        stimulus(0,0,4'd12); // down
-
+        stimulus(1,1,4'd12); 
+        stimulus(0,1,4'd12); 
+        stimulus(1,0,4'd12); 
+        stimulus(0,0,4'd12); 
         #40 $finish;
     end
 
