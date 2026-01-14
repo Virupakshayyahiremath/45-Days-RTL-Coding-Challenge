@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/day14/rtl/up_down_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module up_down_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/day14/tb/up_down_counter_sc_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module up_down_counter_sc_tb

@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "D:/Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"../../../../../rtl/up_down_counter.v" \
+"../../../../../tb/up_down_counter_sc_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+PASS: count=0000 at time=11000
+PASS: count=0000 at time=31000
+PASS: count=1111 at time=51000
+PASS: count=1100 at time=71000
+PASS: count=1101 at time=91000
+PASS: count=1100 at time=111000
+PASS: count=1011 at time=131000
+PASS: count=1010 at time=151000
+$finish called at time : 160 ns : File "C:/Users/Virupakshayya/Desktop/45-Days-RTL-Coding-Challenge/day14/tb/up_down_counter_sc_tb.v" Line 108
