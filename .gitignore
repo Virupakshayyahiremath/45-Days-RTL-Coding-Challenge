@@ -1,5 +1,51 @@
-/sim/day4
-/sim/day4
-/sim/day4
-/day8/sim/flip_flops.sim/sim_1/behav/xsim
-day8/sim/flip_flops.sim/sim_1/behav/xsim/dff_tb_behav.wdb
+######################################
+# Simulation outputs (generic)
+######################################
+sim/
+sim_*/
+*.wdb
+*.vcd
+*.fst
+*.ghw
+*.log
+*.jou
+*.xml
+*.pb
+*.lb
+*.out
+
+######################################
+# Vivado / Xilinx generated files
+######################################
+*.xsim
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.backup/
+*.dmp
+*.str
+
+######################################
+# Temporary / editor files
+######################################
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+*.autosave
+
+######################################
+# OS generated files
+######################################
+.DS_Store
+Thumbs.db
+
+######################################
+# Do NOT ignore documentation & images
+######################################
+!*.png
+!*.jpg
+!*.jpeg
+!*.md
