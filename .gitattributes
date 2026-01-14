@@ -1,4 +1,4 @@
-# Ignore simulation and generated files in language stats
+# Ignore simulation and generated files
 sim/** linguist-vendored
 **/*.wdb linguist-vendored
 **/*.log linguist-vendored
@@ -8,9 +8,13 @@ sim/** linguist-vendored
 **/*.lb linguist-vendored
 **/*.out linguist-vendored
 
-# Treat tool-generated C files as vendored
+# Ignore tool-generated languages
 **/*.c linguist-vendored
 **/*.h linguist-vendored
+**/*.bat linguist-vendored
+**/*.cmd linguist-vendored
+**/*.tcl linguist-vendored
+**/*.pas linguist-vendored
 
 # Explicitly mark Verilog
 **/*.v linguist-language=Verilog
