@@ -1,2 +1,16 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Ignore simulation and generated files in language stats
+sim/** linguist-vendored
+**/*.wdb linguist-vendored
+**/*.log linguist-vendored
+**/*.jou linguist-vendored
+**/*.xml linguist-vendored
+**/*.pb linguist-vendored
+**/*.lb linguist-vendored
+**/*.out linguist-vendored
+
+# Treat tool-generated C files as vendored
+**/*.c linguist-vendored
+**/*.h linguist-vendored
+
+# Explicitly mark Verilog
+**/*.v linguist-language=Verilog
