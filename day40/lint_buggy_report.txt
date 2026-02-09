@@ -175,7 +175,7 @@
   Description   : Port Information for top design unit has been generated. For details see report ReportPortInfo.rpt
   Violation     : Lint:10
   Goal          : lint_rtl
-  FileName      : /home2/WBRN30/ViruPakshaYYA/VLSI_RN_ONLINE/Verilog_labs/apb_spi/vcst_rtdb/.internal/spyglass/vc_lint0/rtl_buggy/VC_GOAL0/spyglass_reports/morelint/ReportPortInfo
+  FileName      : 
   LineNumber    : 1
   Statement     : #     Comment          : Report Top Level Module Port Info
 
@@ -186,7 +186,7 @@
   Description  : Please refer '[FILE_NAME_C]' for driver details
   Violation    : Lint:1
   Goal         : lint_rtl
-  FileName     : /home2/WBRN30/ViruPakshaYYA/VLSI_RN_ONLINE/Verilog_labs/apb_spi/vcst_rtdb/reports/W415_Report.rpt
+  FileName     : 
   LineNumber   : 1
   FILE_NAME_C  : W415_Report.rpt
                                      

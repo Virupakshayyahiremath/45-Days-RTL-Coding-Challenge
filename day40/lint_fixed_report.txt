@@ -95,6 +95,6 @@
   Description   : Port Information for top design unit has been generated. For details see report ReportPortInfo.rpt
   Violation     : Lint:5
   Goal          : lint_rtl
-  FileName      : /home2/WBRN30/ViruPakshaYYA/VLSI_RN_ONLINE/Verilog_labs/apb_spi/vcst_rtdb/.internal/spyglass/vc_lint0/rtl_fixed/VC_GOAL0/spyglass_reports/morelint/ReportPortInfo
+  FileName      : 
   LineNumber    : 1
   Statement     : #     Comment          : Report Top Level Module Port Info
