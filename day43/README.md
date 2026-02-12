@@ -8,6 +8,7 @@ Integrate multiple RTL blocks and verify system-level behavior.
 - Controller FSM integrated in the top module  
 - FSM reads FIFO when not empty and asserts `processing_done`
 
+
 ## Files
 - `fifo16_8_sync.v` – FIFO RTL  
 - `mini_system.v` – Top module (FIFO + FSM)  
@@ -20,17 +21,3 @@ Integrate multiple RTL blocks and verify system-level behavior.
 
 ## Key Learning
 System-level RTL design focuses on clean module integration and clear separation of control and datapath.
-
-        +------------------+
- data → |   FIFO (16×8)    | → fifo_dout
-        |                  |
-        +--------+---------+
-                 |
-                 v
-        +------------------+
-        | Controller FSM   |
-        |                  |
-        +--------+---------+
-                 |
-                 v
-          processing_done
