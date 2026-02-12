@@ -8,7 +8,7 @@ Integrate multiple RTL blocks and verify system-level behavior.
 - Controller FSM integrated in the top module  
 - FSM reads FIFO when not empty and asserts `processing_done`
 
-🏗 Architecture
+**🏗 Architecture
 
         +------------------+
  data → |   FIFO (16×8)    | → fifo_dout
@@ -22,7 +22,7 @@ Integrate multiple RTL blocks and verify system-level behavior.
         +--------+---------+
                  |
                  v
-          processing_done
+          processing_done**
 
 
 ## Files
